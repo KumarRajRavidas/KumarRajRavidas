@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KumarRajRavidas
-- 👀 I’m interested in Ml and Web Techonology
+- 👀 I’m interested in ML and Web Techonology
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on ML
 - 📫 You can reach me via Email raj__das@live.com
