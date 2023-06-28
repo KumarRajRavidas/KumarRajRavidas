@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KumarRajRavidas
-- 👀 I’m interested in Data Science, Data Anlyst and Automation
+- 👀 I’m interested in Data Science, Data Analyst, Web Automation and Scraping 
 - 🌱 I’m currently learning ML
-- 💞️ I’m looking to collaborate on Data Science and Analyst
+- 💞️ I’m looking to collaborate on Data Science and Data Analyst
 - 📫 You can reach me via Email kumarrajravidas@gmail.com
 
 <!---
